@@ -957,7 +957,21 @@
 			background: white;
 		}
 
-.btn_live{margin: 2rem 0;}
+.btn_live{
+	margin: 1rem;
+    border: 1px solid #fff;
+    -webkit-transition: 0.4s all;
+       -moz-transition: 0.4s all;
+        -ms-transition: 0.4s all;
+         -o-transition: 0.4s all;
+            transition: 0.4s all;
+
+}
+.btn_live:hover{
+
+
+	    background: #0092f9;
+}
 
 #header {
 		padding-top: 0 !important;
