@@ -968,9 +968,7 @@
 
 }
 .btn_live:hover{
-
-
-	    background: #0092f9;
+    background-color: #F8F8F8 !important;
 }
 
 #header {
